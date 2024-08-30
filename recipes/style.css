@@ -10,3 +10,8 @@ body{
 #BurgerHeadlinePhoto{
     
 }
+.body_h1{
+    text-align: left;
+    color: blueviolet;
+    font-size: 35px;
+}
